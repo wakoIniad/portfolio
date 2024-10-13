@@ -23,4 +23,5 @@
 - https://www.youtube.com/watch?v=8YAHUWD2TYk: ピアノ曲
 
 ### 絵系
-- https://drive.google.com/file/d/1DI2yX1PKyWFzCOOz1rzpadMCPZHMo509/view?usp=sharing
+- https://drive.google.com/file/d/10vT3oHZivBi52QNs2-y5PWAtTxAAIQCD/view?usp=sharing: 入選したものを加工したもの
+- https://drive.google.com/file/d/1DI2yX1PKyWFzCOOz1rzpadMCPZHMo509/view?usp=sharing: 県知事賞(無加工)
