@@ -23,3 +23,4 @@
 - https://www.youtube.com/watch?v=8YAHUWD2TYk: ピアノ曲
 
 ### 絵系
+- https://drive.google.com/file/d/1DI2yX1PKyWFzCOOz1rzpadMCPZHMo509/view?usp=sharing
