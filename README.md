@@ -5,7 +5,9 @@
 - https://github.com/wakoIniad/talk :母親の会話支援アプリ
 - https://github.com/wakoIniad/disclouds :discordのチャット履歴をデータベース化する試み
 - https://github.com/wakoIniad/my_playground :プログラミング言語のようなものを自作する試み
-- https://wakoiniad.github.io/team-project_/ :自己紹介サイト（大学でのチーム開発）※大学の初のチーム実習のため生のJS,CSS,HTMLしか使えない。
+- https://wakoiniad.github.io/team-project_/ :自己紹介サイト（大学でのチーム開発）
+※背景画像の読み込みにかなり時間がかかる
+※大学の初のチーム実習のため生のJS,CSS,HTMLしか使えない。
 - https://editor.p5js.org/s1f102400606/full/oCV5H-cXg :こな遊び というゲームのようなものを作ろうとしてできた 火遊び
 その他：サークル内でUnityを使い2Dホラーゲームを作成
 
