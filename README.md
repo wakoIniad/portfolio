@@ -11,7 +11,7 @@
 
 ※大学の初のチーム実習のため生のJS,CSS,HTMLしか使えない。
 - https://editor.p5js.org/s1f102400606/full/oCV5H-cXg :こな遊び というゲームのようなものを作ろうとしてできた 火遊び
-その他：サークル内でUnityを使い2Dホラーゲームを作成
+- その他：サークル内でUnityを使い2Dホラーゲームを作成
 
 ### 音楽系
 - https://www.youtube.com/watch?v=VcFrReVuF5M: 追加(10/13)
